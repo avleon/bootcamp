@@ -8,4 +8,4 @@ editor_options:
   chunk_output_type: console
 ---
 
-Check out my [differentisl expression analysis](differential-expression.html)
+Check out my [differential expression analysis](differential-expression.html)
